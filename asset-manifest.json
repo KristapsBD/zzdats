@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/zzdats/static/css/main.85344e4c.css",
+    "main.js": "/zzdats/static/js/main.eff1199b.js",
+    "static/media/zz-dats-logo.png": "/zzdats/static/media/zz-dats-logo.a775469f091323e10267.png",
+    "index.html": "/zzdats/index.html",
+    "main.85344e4c.css.map": "/zzdats/static/css/main.85344e4c.css.map",
+    "main.eff1199b.js.map": "/zzdats/static/js/main.eff1199b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85344e4c.css",
+    "static/js/main.eff1199b.js"
+  ]
+}
